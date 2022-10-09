@@ -1,0 +1,15 @@
+/home/archer/UniLab/lab-Csharp/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/home/archer/UniLab/lab-Csharp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/home/archer/UniLab/lab-Csharp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/home/archer/UniLab/lab-Csharp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/home/archer/UniLab/lab-Csharp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/home/archer/UniLab/lab-Csharp/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
