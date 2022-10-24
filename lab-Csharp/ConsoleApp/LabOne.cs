@@ -5,6 +5,7 @@ public static class Labs
     public static void Main()
     {
         //Зона для запуска задач
+        //Пример: Task1();
     }
 
     public static void Task1()
