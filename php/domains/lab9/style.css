@@ -1,0 +1,14 @@
+﻿/* style.css файлы */
+
+.container{
+	width:600px;
+	border:1px solid blue;
+	margin:0 auto;
+	padding:10px 50px;
+	background:#F1EEEE;	
+}
+.container1{
+	padding-left:150px;
+}
+
+
