@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Форма для регистрации участников</h2>
+<form action="script.php" method=POST>
+<!--данные формы будет обрабатывать файл 1.php; отправка запроса - методом POST-->
+Имя <br><input type=text name="first_name" value=""><br>
+Фамилия <br><input type=text name="last_name"><br>
+E-mail <br><input type=text name="email"><br>
+<p>На каком курсе вы обучаетесь:<br>
+<input type=radio name="kurs" value="1">1 курс<br>
+<input type=radio name="kurs" value="2">2 курс<br>
+<input type=radio name="kurs" value="3">3 курс<br>
+<input type=radio name="kurs" value="4">4 курс<br>
+</p>
+<input type=submit value="Отправить"><input type=reset value="Отменить">
+</form>
+</body>
+</html>
+
+
